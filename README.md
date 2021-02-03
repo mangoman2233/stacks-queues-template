@@ -1,5 +1,17 @@
 # Technical HW: Stacks & Queues
-Please complete the following 4 functions. You can test by running the 'pytest' command.
+Please complete the following 4 functions. You can test by running the 'pytest' command:
+
+To run just the main code for one problem:
+
+`python3 reverse.py`
+
+To run the tests for one problem:
+
+`pytest reverse_test.py`
+
+To run all the tests prior to submission:
+
+`pytest`
 
 ## Problem 1: reverse
 
