@@ -1,5 +1,5 @@
 # Technical HW: Stacks & Queues
-Please complete the following functions. You can test by running the 'pytest' command.
+Please complete the following 4 functions. You can test by running the 'pytest' command.
 
 ## Problem 1: reverse
 
