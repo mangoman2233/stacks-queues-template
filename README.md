@@ -41,7 +41,7 @@ _**Hint**: use a stack!_
 
 Write a function ```generate_binary_numbers``` that
 takes a number _N_ as a parameter and returns a queue
-of binary number strings from _1_ to _N_. The front
+of binary number strings from _1_ to _N_ _without_ using any built-in binary functions like `bin()`. The front
 of the queue begins @ '1'. If _N_ is too small, 
 return an empty queue. 
 
