@@ -9,7 +9,9 @@ Please complete the following 4 functions. You can test by running the `pytest` 
 
 Write a function ```reverse``` in python that takes a
 queue as a parameter and returns a new queue in 
-reverse order:
+reverse order. Your solution _should not_ use
+any built-in or library functions other than those in
+the `Stack` and `Queue` classes provided.
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
@@ -27,7 +29,10 @@ _**Hint**: use a stack to help!_
 Write a function `matcher` in python that takes a
 string containing braces (`[{()}]`) as a parameter
 and returns True if the braces are matched, and
-False otherwise. The braces may be nested.
+False otherwise. The braces may be nested. 
+Your solution _should not_ use
+any built-in or library functions other than those in
+the `Stack` and `Queue` classes provided.
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
@@ -41,9 +46,13 @@ _**Hint**: use a stack!_
 
 Write a function ```generate_binary_numbers``` that
 takes a number _N_ as a parameter and returns a queue
-of binary number strings from _1_ to _N_ _without_ using any built-in binary functions like `bin()`. The front
-of the queue begins @ '1'. If _N_ is too small, 
-return an empty queue. 
+of binary number strings from _1_ to _N_ _without_ 
+using any built-in or library functions like `bin()`. 
+In fact, your solution _should not_ use
+any built-in or library functions other than those in
+the `Stack` and `Queue` classes provided.
+The front of the queue begins @ '1'. If _N_ is too 
+small, return an empty queue. 
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
@@ -97,6 +106,10 @@ example:
 | `count_longest( Q[ ] )` | `0` |
 
 _**Hint**: you can destroy the queue & make it empty!_
+
+Your solution _should not_ use
+any built-in or library functions other than those in
+the `Stack` and `Queue` classes provided.
 
 ## Getting started
 
