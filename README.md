@@ -5,7 +5,7 @@ Please complete the following 4 functions. You can test by running the `pytest` 
 * To run the tests for one problem: `pytest reverse_test.py`
 * To run all the tests prior to submission: `pytest`
 
-_**Hint**: For loops are for strings, whiles are for Stacks & Queues!_
+_**Hint**: Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
 
 ## Problem 1: reverse
 
