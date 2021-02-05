@@ -5,7 +5,28 @@ Please complete the following 4 functions. You can test by running the `pytest` 
 * To run the tests for one problem: `pytest reverse_test.py`
 * To run all the tests prior to submission: `pytest`
 
-_**Hint**: Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
+### Files that should (& shouldn't!) be changed
+
+You **SHOULD** implement your problem solutions in the following files:
+* reverse.py
+* matching.py
+* generate_binary.py
+* count_longest.py
+
+You **SHOULD NOT** modify the following files:
+* Queue.py
+* Stack.py
+* count_longest_test.py
+* generate_binary_test.py
+* matching_test.py
+* reverse_test.py
+
+Looking for additional practice problems to prepare for the exam?
+* practice-problems.py
+
+### General Hints
+* _Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
+* _The only way to iterate / loop through the Stack or Queue you've been given in this assignment is to destroy it (i.e., make it empty)._
 
 ## Problem 1: reverse
 
@@ -24,7 +45,7 @@ the `Stack` and `Queue` classes provided.
 _Note:_ We are using the notation `Q[ ]` here to 
 differentiate our queues from lists or arrays.
 
-_**Hint**: use a stack to help!_
+_**Hint**: use a stack to help! You can destroy the queue & make it empty!_
 
 ## Problem 2: matcher
 
