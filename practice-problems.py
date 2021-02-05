@@ -1,5 +1,15 @@
-# PRACTICE: What is the output &
-# ADT look like after every line?
+# ADDITIONAL PRACTICE PROBLEMS
+# These problems can help you self-assess your
+# understanding of stack & queue operations by
+# hand, as you might be asked to do on a quiz
+# or exam. Feel free to modify main to generate
+# additional problems!
+#
+# Approach: walk through main, writing down what
+# you think the output & ADT are after every line.
+# Then, run it! Were your answers correct? If so,
+# GREAT! If not, where do you think the gaps in
+# your understanding are?
 
 from Queue import Queue
 from Stack import Stack
@@ -79,6 +89,8 @@ def queue_test(q_str, op_str):
             print("ERROR: unknown operation", op)
 
 
+# PRACTICE: What do you think the output &
+# ADT looks like after every line?
 def main():
     print("=" * 10, "Problem Queue 1", "=" * 10)
     queue_first()

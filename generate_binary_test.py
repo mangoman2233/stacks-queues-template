@@ -1,3 +1,6 @@
+# TEST FILE FOR GENERATE BINARY NUMBERS
+# DO NOT MODIFY
+
 from Queue import Queue
 from generate_binary import generate_binary_numbers
 

@@ -1,5 +1,8 @@
+# MODIFY ME TO IMPLEMENT YOUR SOLUTION
+# TO PROBLEM 2: BRACE MATCHER
+#
 # NAME:         FIXME
-# ASSIGNMENT:   FIXME
+# ASSIGNMENT:   Technical HW: Stacks & Queues
 
 from Stack import Stack
 

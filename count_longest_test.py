@@ -1,3 +1,6 @@
+# TEST FILE FOR COUNT LONGEST SUBSEQUENCE
+# DO NOT MODIFY
+
 from Queue import Queue
 from count_longest import count_longest
 

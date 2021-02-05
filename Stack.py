@@ -1,3 +1,6 @@
+# STACK IMPLEMENTATION
+# DO NOT MODIFY
+
 class Stack(object):
     def __init__(self, list=[]):
         self.stack = list

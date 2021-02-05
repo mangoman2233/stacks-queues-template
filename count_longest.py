@@ -1,5 +1,8 @@
+# MODIFY ME TO IMPLEMENT YOUR SOLUTION
+# TO PROBLEM 4: COUNT THE LONGEST SUBSEQUENCE
+#
 # NAME:         FIXME
-# ASSIGNMENT:   FIXME
+# ASSIGNMENT:   Technical HW: Stacks & Queues
 
 from Queue import Queue
 

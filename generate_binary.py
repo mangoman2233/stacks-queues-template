@@ -1,5 +1,8 @@
+# MODIFY ME TO IMPLEMENT YOUR SOLUTION
+# TO PROBLEM 3: GENERATE BINARY NUMBER STRINGS
+#
 # NAME:         FIXME
-# ASSIGNMENT:   FIXME
+# ASSIGNMENT:   Technical HW: Stacks & Queues
 
 from Queue import Queue
 

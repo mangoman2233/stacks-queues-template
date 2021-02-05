@@ -1,5 +1,8 @@
+# MODIFY ME TO IMPLEMENT YOUR SOLUTION
+# TO PROBLEM 1: REVERSE QUEUE
+#
 # NAME:         FIXME
-# ASSIGNMENT:   FIXME
+# ASSIGNMENT:   Technical HW: Stacks & Queues
 
 from Queue import Queue
 from Stack import Stack

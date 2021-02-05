@@ -1,3 +1,6 @@
+# QUEUE IMPLEMENTATION
+# DO NOT MODIFY
+
 class Queue(object):
     def __init__(self, list=[]):
         self.queue = list
