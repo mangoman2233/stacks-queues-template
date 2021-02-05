@@ -28,7 +28,7 @@ Looking for additional practice problems to prepare for the exam?
 * _Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
 * _The only way to iterate / loop through the Stack or Queue you've been given in this assignment is to destroy it (i.e., make it empty)._
 
-## Problem 1: reverse
+## Problem 1: reverse queue
 
 Write a function ```reverse``` in python that takes a
 queue as a parameter and returns a new queue in 
@@ -47,7 +47,7 @@ differentiate our queues from lists or arrays.
 
 _**Hint**: use a stack to help! You can destroy the queue & make it empty!_
 
-## Problem 2: matcher
+## Problem 2: brace matcher
 
 Write a function `matcher` in python that takes a
 string containing braces (`[{()}]`) as a parameter
