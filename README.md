@@ -83,7 +83,7 @@ small, return an empty queue.
 | `generate_binary_numbers(3)` | `Q['1', '10', '11']` |
 | `generate_binary_numbers(6)` | `Q['1', '10', '11', '100', '101', '110']` |
 
-_**Hint**: use an extra queue to help!_
+_**Hint**: use an extra queue to help! Start from 1, & add 0 & 1 to copies of it._
 
 ### Review: Binary Numbers
 
