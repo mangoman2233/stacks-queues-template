@@ -76,7 +76,7 @@ any built-in or library functions other than those in
 the `Stack` and `Queue` classes provided.
 The front of the queue begins @ '1'. If _N_ is too 
 small, return an empty queue. A successful solution
-does **not** calculate binary numbers mathematical
+does **not** calculate binary numbers mathematically
 but __only__ adds strings together.
 
 | **Example call** | **Returns** |
