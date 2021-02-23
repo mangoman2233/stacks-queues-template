@@ -27,6 +27,7 @@ Looking for additional practice problems to prepare for the exam?
 ### General Hints
 * _Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
 * _The only way to iterate / loop through the Stack or Queue you've been given in this assignment is to destroy it (i.e., make it empty)._
+* _You should only be accessing the functions of Queue & Stack, not the underlying lists._
 
 ## Problem 1: reverse queue
 
