@@ -9,7 +9,7 @@ from Stack import Stack
 # Returns True if the braces match,
 # & False otherwise
 def matcher(str):
-    s = Stack()
+    s = Stack([])
     return True
 
 def main():
