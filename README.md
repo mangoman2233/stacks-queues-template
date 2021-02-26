@@ -64,7 +64,7 @@ the `Stack` and `Queue` classes provided.
 | `matcher("[(")` | `False` |
 | `matcher("hello")` | `True` |
 
-_**Hint**: use a stack!_
+_**Hint**: use a stack! And make sure the braces **MATCH**!_
 
 ## Problem 3: generate binary number strings
 
