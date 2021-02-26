@@ -2,7 +2,9 @@
 # DO NOT MODIFY
 
 class Queue(object):
-    def __init__(self, list=[]):
+    def __init__(self, list=None):
+        if list is None:
+            list = []
         self.queue = list
 
     def get_list(self):
