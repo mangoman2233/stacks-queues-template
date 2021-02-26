@@ -27,6 +27,7 @@ Looking for additional practice problems to prepare for the exam?
 ### General Hints
 * _Thinking of using a loop? For loops are for strings, whiles are for Stacks & Queues!_
 * _The only way to iterate / loop through the Stack or Queue you've been given in this assignment is to destroy it (i.e., make it empty)._
+* _You should only be accessing the functions of Queue & Stack, not the underlying lists._
 
 ## Problem 1: reverse queue
 
@@ -63,7 +64,7 @@ the `Stack` and `Queue` classes provided.
 | `matcher("[(")` | `False` |
 | `matcher("hello")` | `True` |
 
-_**Hint**: use a stack!_
+_**Hint**: use a stack! And make sure the braces **MATCH**!_
 
 ## Problem 3: generate binary number strings
 
@@ -75,7 +76,9 @@ In fact, your solution _should not_ use
 any built-in or library functions other than those in
 the `Stack` and `Queue` classes provided.
 The front of the queue begins @ '1'. If _N_ is too 
-small, return an empty queue. 
+small, return an empty queue. A successful solution
+does **not** calculate binary numbers mathematically
+but __only__ adds strings together.
 
 | **Example call** | **Returns** |
 | -------------- | --------- |
@@ -83,7 +86,7 @@ small, return an empty queue.
 | `generate_binary_numbers(3)` | `Q['1', '10', '11']` |
 | `generate_binary_numbers(6)` | `Q['1', '10', '11', '100', '101', '110']` |
 
-_**Hint**: use an extra queue to help!_
+_**Hint**: use an extra queue to help! Start from 1, & add 0 & 1 to copies of it._
 
 ### Review: Binary Numbers
 
