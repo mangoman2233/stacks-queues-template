@@ -90,14 +90,14 @@ _**Hint**: use an extra queue to help! Start from 1, & add 0 & 1 to copies of it
 
 ### Algorithm Overview
 ```
-1) Create an empty queue of strings 
-2) Enqueue the first binary number "1" to queue. 
-3) Now run a loop for generating and printing n binary numbers. 
-......a) Dequeue and Print the front of queue. 
-......b) Append "0" at the end of front item and enqueue it. 
-......c) Append "1" at the end of front item and enqueue it.
+1) Create two empty queues of strings: a temp one & one to return 
+2) Enqueue the first binary number "1" to the temp queue. 
+3) Now run a loop for generating and creating a queue of n binary numbers. 
+......a) Dequeue the front of the temp queue & add it to the output queue (to be returned). 
+......b) Append "0" at the end of front item and enqueue it to the temp queue. 
+......c) Append "1" at the end of front item and enqueue it to the temp queue.
 ```
-Algorithm from https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
+Algorithm adapted from https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/
 
 
 ### Review: Binary Numbers
