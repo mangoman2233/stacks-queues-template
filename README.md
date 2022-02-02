@@ -1,4 +1,4 @@
-# Technical HW: Stacks & Queues
+# Project 2: Stacks & Queues
 Please complete the following 4 functions. You can test by running the `pytest` or `python3` commands:
 
 * To run just the main code for one problem: `python3 reverse.py`
