@@ -7,8 +7,8 @@ class Queue(object):
             list = []
         self.queue = list
 
-    def get_list(self):
-        return self.queue
+#     def get_list(self):
+#         return self.queue
 
     def size(self):
         return len(self.queue)
