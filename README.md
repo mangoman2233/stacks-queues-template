@@ -66,6 +66,8 @@ the `Stack` and `Queue` classes provided.
 
 _**Hint**: use a stack! And make sure the braces **MATCH**!_
 
+_**Hint 2:**: consider making your code DRYer by using a dictionary to determine if an open or closed brace matches. (For full credit, **DO NOT** use the dictionary in place of the stack to determine overall matching.)_
+
 ## Problem 3: generate binary number strings
 
 Write a function ```generate_binary_numbers``` that
