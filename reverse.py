@@ -2,7 +2,7 @@
 # TO PROBLEM 1: REVERSE QUEUE
 #
 # NAME:         FIXME
-# ASSIGNMENT:   Technical HW: Stacks & Queues
+# ASSIGNMENT:   Project 2: Stacks & Queues
 
 from Queue import Queue
 from Stack import Stack
