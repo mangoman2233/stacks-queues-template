@@ -2,7 +2,7 @@
 # TO PROBLEM 2: BRACE MATCHER
 #
 # NAME:         FIXME
-# ASSIGNMENT:   Technical HW: Stacks & Queues
+# ASSIGNMENT:   Project 2: Stacks & Queues
 
 from Stack import Stack
 
