@@ -2,7 +2,7 @@
 # TO PROBLEM 3: GENERATE BINARY NUMBER STRINGS
 #
 # NAME:         FIXME
-# ASSIGNMENT:   Technical HW: Stacks & Queues
+# ASSIGNMENT:   Project 2: Stacks & Queues
 
 from Queue import Queue
 
